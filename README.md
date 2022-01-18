@@ -1,5 +1,5 @@
 # OOP-Y2S1-Venue_Management_Part
-# Project Name - Event Management System.
+# Project Name - Online Event Planing System.
 
 Group Leader - IT20016852 - Chathuranga KGS (PhenoZiggy)
 
